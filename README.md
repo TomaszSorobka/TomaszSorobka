@@ -1,9 +1,7 @@
 ### Hi there, I'm Tomek 👋 I make computer beep boop beep beep boop 😎 
 - 📈 I'm a computer science student 
-- 🌱 I’m currently learning C programming language 
 - 👯 I’m looking to collaborate with other students
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play basketball and chess
+- ⚡ I love to play basketball and chess
 
 ### Connect with me:
 
