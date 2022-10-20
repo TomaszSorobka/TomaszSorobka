@@ -1,6 +1,5 @@
 ### Hi there, I'm Tomek 😎 
 - 📈 I'm a computer science student 
-- 👯 I’m looking to collaborate with other students
 - ⚡ I love to play basketball and chess
 
 ### Connect with me:
