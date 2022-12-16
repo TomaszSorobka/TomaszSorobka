@@ -1,4 +1,4 @@
-### Hi there, I'm Tomek 😎 
+### Hi there, I'm Tomek
 - 📈 I'm a computer science student 
 - ⚡ I love to train boxing and play chess
 
