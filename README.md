@@ -1,13 +1,10 @@
 ### Hi there, I'm Tomek
-- 📈 I'm a computer science student 
-- ⚡ I love to train boxing and play chess
+📊 I'm a resourceful Software Engineer focused on end-to-end data solutions
+⚙️ Enthusiast of turning data into insights that drive impactful decisions
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -28,6 +25,4 @@
 <br />
 
 [website]: https://github.com/TomaszSorobka
-[facebook]: https://www.facebook.com/tomek.sorobka/
-[instagram]: https://www.instagram.com/tomek.sorobka/
-[linkedin]: https://www.linkedin.com/in/tomasz-soróbka-671bb21b8/
+[linkedin]: https://www.linkedin.com/in/tomasz-sorobka
