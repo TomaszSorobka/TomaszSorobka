@@ -1,5 +1,5 @@
 ### Hi there, I'm Tomek
-📊 I'm a resourceful Software Engineer focused on end-to-end data solutions
+📊 I'm a resourceful Software Engineer focused on end-to-end data solutions <br />
 ⚙️ Enthusiast of turning data into insights that drive impactful decisions
 
 ### Connect with me:
